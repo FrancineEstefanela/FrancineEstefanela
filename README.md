@@ -2,7 +2,7 @@
 Uma apaixonada pela interseção entre arte e tecnologia, sempre em busca de aprender algo novo e explorar o desconhecido — curiosa, criativa, amante de boardgames, boas IPAs e a humana de duas gatinhas fofas 😸, determinada a deixar minha marca no mundo da tecnologia!
 
 👩🏻‍💻 **De humanas para exatas!** 
-Iniciei minha jornada profissional como fotógrafa, capturando histórias e momentos por mais de 8 anos. Hoje, sou Gerente de Marketing e estudante de Inteligência Artificial, explorando o mundo da programação e ciência de dados.  
+Iniciei minha jornada profissional como fotógrafa, capturando histórias e momentos por 7 anos. Hoje, sou Gerente de Marketing e estudante de Inteligência Artificial, explorando o mundo da programação e ciência de dados.  
 
 💻 **Áreas de Interesse:** 
 * **Desenvolvimento Web e Aplicações:** Full-stack com HTML, CSS, JavaScript, SQL e PHP, incluindo integração de IA para dashboards interativos.
