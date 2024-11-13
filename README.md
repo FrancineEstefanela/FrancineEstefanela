@@ -1,15 +1,29 @@
-**Olá, sou a Fran!** 🙆‍♀️
-Uma apaixonada pela interseção entre arte e tecnologia, sempre em busca de aprender algo novo e explorar o desconhecido — curiosa, criativa, amante de boardgames, boas IPAs e a humana de duas gatinhas fofas 😸, determinada a deixar minha marca no mundo da tecnologia!
+```python
+# Olá, sou a Fran! 🙆‍♀️
+"""
+Uma apaixonada pela interseção entre arte e tecnologia, sempre em busca
+de aprender algo novo e explorar o desconhecido. Curiosa, criativa, amante
+de boardgames, boas IPAs e humana de duas gatinhas 😸, determinada a deixar
+minha marca no mundo da tecnologia!
+"""
 
-👩🏻‍💻 **De humanas para exatas!** Comecei como fotógrafa, eternizando histórias, e hoje, como Gerente de Marketing e designer, aplico essa paixão em experiências digitais. Agora, explorando Inteligência Artificial, busco unir o design e a tecnologia para criar soluções inovadoras.
+# Transição de Humanas para Exatas 👩🏻‍💻
+"""
+Comecei como fotógrafa, eternizando histórias. Hoje, sou Gerente de Marketing
+e designer, aplicando essa paixão em experiências digitais. Explorando IA, busco
+unir design e tecnologia para criar soluções inovadoras.
+"""
 
-💻 **Áreas de Interesse:** 
-* **Desenvolvimento Web e Aplicações:** Full-stack com HTML, CSS, JavaScript, SQL e PHP, incluindo integração de IA para dashboards interativos.
-* **Inteligência Artificial:** Algoritmos genéticos e modelos de aprendizado para recomendação e otimização. Interessada em debater o futuro ético da IA.
-* **Internet das Coisas (IoT):** Projetos flexíveis com ESP32, arduino e sensores, focados em resolver problemas específicos e necessidades práticas.
-* **Data Science e Machine Learning:** Análise de dados com Python e MySQL, aplicando modelos preditivos e de clustering para insights e visualizações.
+# Áreas de Interesse 💻
+areas_interesse = [
+    "Desenvolvimento Web e Aplicações: Full-stack com HTML, CSS, JS, SQL, PHP",
+    "Inteligência Artificial: Algoritmos genéticos, aprendizado de máquina",
+    "Internet das Coisas (IoT): Projetos com ESP32, Arduino e sensores",
+    "Data Science: Análise de dados com Python e MySQL"
+]
 
-Fique à vontade para se conectar comigo 🤝!
+# Vamos nos conectar! 🤝
+
   
 - [**LinkedIn**](https://www.linkedin.com/in/franmoura/)
 - [**Instagram**](https://www.instagram.com/franamoura/)
