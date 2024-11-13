@@ -12,6 +12,6 @@ Iniciei minha jornada profissional como fotógrafa, capturando histórias e mome
 
 Fique à vontade para se conectar comigo 🤝! Adoro trocar ideias sobre tecnologia, inovação e até mesmo sobre boardgames e gatinhos. 
   
-- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/franmoura/)
-- **Instagram**: [Seu Instagram](https://www.instagram.com/franamoura/)
-- **GitHub**: [Seu GitHub](https://github.com/FrancineEstefanela)
+- [**LinkedIn**](https://www.linkedin.com/in/franmoura/)
+- [**Instagram**](https://www.instagram.com/franamoura/)
+- [**GitHub**](https://github.com/FrancineEstefanela)
