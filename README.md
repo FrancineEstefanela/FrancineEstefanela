@@ -13,15 +13,4 @@ Minha jornada começou na fotografia, eternizando histórias como fotógrafa pro
 ### Linguagens e Ferramentas que estou aprendendo 🚀
 
 <img src="https://www.svgrepo.com/show/452091/python.svg" width="30px" alt="Python"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="30px" alt="HTML5"> <img src="https://www.svgrepo.com/show/452185/css-3.svg" width="30px" alt="Css"> <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="30px" alt="Js"> <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" width="30px" alt="NodeJs"> <img src="https://www.svgrepo.com/show/452088/php.svg" width="30px" alt="MySql">
-<img src="https://www.svgrepo.com/show/373309/mysql.svg" width="30px" alt="MySql"> <img src="https://www.svgrepo.com/show/353949/jupyter.svg" width="30px" alt="Jupyter">
-
-## Vamos nos conectar 🌐
-
-<div style="display: inline-block; padding: 12px 25px; background-color: #0077b5; color: white; border-radius: 10px; text-decoration: none; font-weight: bold; font-size: 18px; margin-right: 10px;">
-  <a href="https://www.linkedin.com/in/franmoura/" target="_blank" style="color: white; text-decoration: none;">LinkedIn</a>
-</div>
-
-<div style="display: inline-block; padding: 12px 25px; background-color: #e4405f; color: white; border-radius: 10px; text-decoration: none; font-weight: bold; font-size: 18px;">
-  <a href="https://www.instagram.com/franamoura/" target="_blank" style="color: white; text-decoration: none;">Instagram</a>
-</div>
-
+<img src="https://www.svgrepo.com/show/373309/mysql.svg" width="30px" alt="MySql"> <img src="https://www.svgrepo.com/show/353949/jupyter.svg" width="30px" alt="Jupyter"> <img src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" width="30px" alt="Visualcode">
